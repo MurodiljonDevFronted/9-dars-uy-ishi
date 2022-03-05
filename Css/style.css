@@ -1,0 +1,76 @@
+body{
+  margin:0;
+  padding: 0;
+  height: 100vh;
+
+}
+.number{
+  border: 1px solid blue;
+  font-size: 27px;
+}
+.title{
+  color: blue;
+  font-size: 20px;
+}
+h1{
+  font-size: 45px;
+}
+p{
+  font-size: 22px;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  line-height: 25px;
+}
+.titles{
+  color: blue;
+  font-size: 40px;
+}
+.background{
+    height:100%;
+    width:100%;
+    padding-top: 180px;
+    background-image: url(../images/bacg.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100%;
+    background-position: ;
+    
+}
+
+.container{
+  vertical-align: middle;
+  padding-top: 60px;
+  margin: auto;
+  background-color: aliceblue;
+  display: flex;
+  width: 1220px;
+  height:610px;
+  border: 2px solid white;
+  border-radius: 35px;
+}
+
+
+.list{
+  margin-left:80px;
+}
+.butse>img{
+  padding-top: 30px;
+}
+.list-title{
+  color: blue;
+  font-size:20px;
+}
+
+.right-item{
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.titlebutton{
+ padding-top: 50px;
+}
+.titlebutton>button{
+  padding: 16px 140px;
+  border-radius: 15px;
+  color: white;
+  font-size: 25px;
+  background-color: blue;
+}
